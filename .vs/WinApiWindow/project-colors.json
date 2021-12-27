@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b46107ef-5608-411a-834b-89b5ddaa37a9": {
+      "ProjectGuid": "b46107ef-5608-411a-834b-89b5ddaa37a9",
+      "DisplayName": "WinApiWindow",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
